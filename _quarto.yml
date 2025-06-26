@@ -7,7 +7,7 @@ diagram:
       header-includes:
         - '\usetikzlibrary{arrows}'
         
-title: "A fast algorithm to compute a curve of confidence upper bounds for the False Discovery Proportion using a reference family with a forest structure"
+title: "Fast confidence bounds for the false discovery proportion over a path of hypotheses"
 # subtitle: ""
 author:
   - name: Guillermo Durand
